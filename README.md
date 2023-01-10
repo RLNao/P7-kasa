@@ -8,7 +8,7 @@ Dans le terminal exécuter les commandes suivantes :
 ```
  L'application devrait s'ouvrir avec le port 3000   
  
-## Navigation 
+##  Navigation 
 http://localhost:3000/
 http://localhost:3000/A-propos
 http://localhost:3000/Fiche-Logement/{id}
